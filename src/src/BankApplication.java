@@ -41,7 +41,7 @@ class BankAccount {
 public class BankApplication {
     private static final String url = "jdbc:mysql://localhost:3306/BankDB";
     private static final String user = "root";
-    private static final String password = "Rak@1411";
+    private static final String password = "root";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
